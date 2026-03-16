@@ -4,8 +4,8 @@ site_author: Docker
 # site_url: https://squidfunk.github.io/mkdocs-material/
 
 # Repository
-repo_name: srinivas-thotakura-eng/docker-demo
-repo_url: https://github.com/srinivas-thotakura-eng/docker-demo
+repo_name: docker/getting-started
+repo_url: https://github.com/docker/getting-started
 edit_uri: ""
 
 # Copyright
@@ -37,10 +37,8 @@ plugins:
 # Customization
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/srinivas-thotakura-eng
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/sri-h2o
+    - type: github-alt
+      link: https://github.com/docker/getting-started
 
 # Extensions
 markdown_extensions:
